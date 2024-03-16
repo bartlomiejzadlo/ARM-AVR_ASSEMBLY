@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\smieci_z_pulpitu\smieci\pn_github\2_ARM\zadania_od_benia\2_ARM\ZAD 5\ARM_1.uvproj
+Project File Date:  11/13/2021
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling Startup.s...
+assembling LPC213x.s...
+assembling kolokwium_skeleton.s...
+linking...
+.\ARM_1.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=392 RO-data=0 RW-data=0 ZI-data=1160  
+FromELF: creating hex file...
+".\ARM_1.axf" - 0 Errors, 1 Warning(s).
